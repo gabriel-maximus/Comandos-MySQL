@@ -1,0 +1,5 @@
+Cada médico terá seu CRM para registro na plataforma
+É importante ter Nome e Especialidade de cada médico para direcionar o atendimento correto.
+Os pacientes devem ter um registro único além de nome e sobrenome
+Todo atendimento deve ter um médico responsável e o paciente atendido
+Depois da consulta deve ser registrado a gravidade do problema do paciente para redirecionamento caso necessário.
