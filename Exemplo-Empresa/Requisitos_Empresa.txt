@@ -1,0 +1,3 @@
+Todos os empregados devem ser registrados com nome, sobrenome e especialização
+Os projetos serão registrados com o nome do projeto.
+Cada participação em projetos deve ser registrada com qual projeto e quem fez parte, além da data de início.
