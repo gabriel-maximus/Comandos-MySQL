@@ -1,0 +1,9 @@
+Cada piloto deve ter seu nome, número do registro e a validade do registro.
+Os clientes terão seus cadastros na plataforma utilizando a identidade e nome.
+Telefone e Endereço serão pedidos para registro, porém não serão obrigatórios.
+Cada voo deve ter suas horas de partida e chegada, além do local de partida e destino.
+Todo voo deve ter apenas um piloto.
+O voo pode ter mais de um cliente registrado.
+Um cliente pode reservar vários voos.
+O cliente deverá ter seu número de cadeira registrado e o peso de suas bagagens.
+Cada voo terá um número para acompanhamento do cliente e seus familiares.
